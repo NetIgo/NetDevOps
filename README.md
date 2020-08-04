@@ -1,6 +1,6 @@
 # NetDevOps
 
-PYthon Code on :
+Python Code on :
 
 - Network Device
   - Firewall
