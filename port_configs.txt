@@ -1,8 +1,0 @@
-interface Gi0/3
-  description UBUNTU
-interface Gi0/2
-  description SRV
-interface Gi0/1
-  description DESKTOP-W10.netigo.local
-interface Gi0/0
-  description ovi-PC
